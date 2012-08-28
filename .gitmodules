@@ -1,0 +1,6 @@
+[submodule "vendor/apprise"]
+	path = vendor/apprise
+	url = https://github.com/ThrivingKings/Apprise.git
+[submodule "vendor/bootstrap"]
+	path = vendor/bootstrap
+	url = https://github.com/twitter/bootstrap.git
