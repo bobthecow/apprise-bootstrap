@@ -3,7 +3,7 @@
 Stylish alerts for a Bootstrapped web.
 
 
-### [Download today!](https://github.com/downloads/bobthecow/apprise-bootstrap/apprise-bootstrap-1.0.0.tgz)
+### [Download today!](https://github.com/downloads/bobthecow/apprise-bootstrap/apprise-bootstrap-1.0.1.tgz)
 
 
 ## Using Apprise Bootstrap
