@@ -78,7 +78,7 @@ You can include Apprise Bootstrap in your custom Bootstrap build. Simply `@inclu
 ## Legal stuffs
 
  * Apprise Bootstrap is copyright 2012 Justin Hileman and released under the Apache License, Version 2.0.
- * Apprise is copyright Daniel Raftery. [License info is pending](https://github.com/ThrivingKings/Apprise/issues/17).
+ * Apprise is copyright Daniel Raftery and released under the MIT license.
  * Bootstrap is copyright 2012 Twitter, Inc. and released under the Apache License, Version 2.0.
 
 Licensed under the Apache License, Version 2.0 (the "License");

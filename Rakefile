@@ -4,7 +4,7 @@ require 'less'
 require 'rainpress'
 require 'uglifier'
 
-APPRISE_BOOTSTRAP_VERSION = '1.0.0'
+APPRISE_BOOTSTRAP_VERSION = '1.0.1'
 
 LESS_FILE    = 'apprise-bootstrap.less'
 CSS_FILE     = 'apprise-bootstrap.css'
