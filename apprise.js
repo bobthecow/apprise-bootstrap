@@ -41,7 +41,7 @@ function apprise(string, args, callback) {
     inner.append(string)
 		.appendTo(apprise);
 
-    
+
 
     if (args) {
         if (args['input']) {
@@ -54,7 +54,7 @@ function apprise(string, args, callback) {
             else {
                 inner.append('<div class="aInput"><input type="text" class="aTextbox" t="aTextbox" /></div>');
             }
-            $('.aTextbox').focus();
+            setTimeout(function() { $('.aTextbox').focus() }, 0);
         }
     }
 
@@ -117,11 +117,11 @@ function apprise(string, args, callback) {
                     else { callback(true); }
                 }
                 else {
-                    callback(true); 
+                    callback(true);
                 }
             }
             else if (wButton == 'cancel') {
-                callback(false); 
+                callback(false);
             }
         }
     });
